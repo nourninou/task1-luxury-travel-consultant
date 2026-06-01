@@ -25,3 +25,4 @@ The AI acts as a Luxury Travel Consultant and follows strict business rules.
 
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
