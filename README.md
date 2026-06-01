@@ -1,28 +1,26 @@
 
-# Luxury Travel Consultant AI
+# Task 1 - The System Prompt Architect
 
 ## Overview
 
-This project was developed for DecodeLabs Generative AI Internship.
+This project was developed as part of the DecodeLabs Generative AI Internship.
 
-The objective is to demonstrate:
+The objective was to design a professional AI persona using Prompt Engineering techniques.
+
+## Skills Demonstrated
 
 - System Prompt Engineering
 - Persona Engineering
 - Few-Shot Prompting
+- Knowledge Boundary Definition
+- Customer Interaction Design
 
-The AI acts as a Luxury Travel Consultant and follows strict business rules.
+## Deliverables
 
-## Features
-
-- Luxury Travel Persona
-- Discount Policy Enforcement
-- Competitor Mention Prevention
-- Professional Tone
+- Luxury Travel Consultant System Prompt
 - Few-Shot Examples
+- Difficult Customer Test Case
 
-## Installation
+## Outcome
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+The AI successfully maintains its persona, applies business rules, respects knowledge boundaries, and handles difficult customer interactions professionally.
